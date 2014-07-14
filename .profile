@@ -1,5 +1,5 @@
 # Solarized dircolors:
-eval `dircolors /home/tfnico/prefs/dir_colors`
+#eval `dircolors /home/tfnico/prefs/dir_colors`
 
 source ~/prefs/env
 
