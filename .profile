@@ -9,3 +9,6 @@ source /opt/boxen/env.sh
 
 PATH="/opt/boxen/homebrew/opt/gnu-tar/libexec/gnubin:$PATH"
 
+
+#THIS MUST BE AT THE END OF THE FILE FOR GVM TO WORK!!!
+[[ -s "/Users/tfnico/.gvm/bin/gvm-init.sh" ]] && source "/Users/tfnico/.gvm/bin/gvm-init.sh"
